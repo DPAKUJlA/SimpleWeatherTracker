@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleWeatherTracker</string>
+    <string name="city_name">Введіть назву міста</string>
+    <string name="get_weather">Отримати дані</string>
+</resources>
